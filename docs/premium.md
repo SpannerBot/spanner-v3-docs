@@ -1,6 +1,6 @@
 # Spanner Premium
 
-Premium is currently unavailable as the feature set for spanner v3, including that which 
+Premium is currently unavailable as the feature set for spanner v3, including that which
 will be under premium, is still being developed, and is not known ahead of time.
 
 Until the full release of v3, premium will not be available.
